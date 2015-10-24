@@ -73,6 +73,9 @@ http://yeoman.io/
 先建立一個workspace與專案資料夾，E.g. D:\workspace\project1  
 接著進入這個資料夾 cd  D:\workspace\project1  
 最後執行 **yo gulp-webapp**  
+## 驗證環境
+在專案資料夾的目錄下 E.g. D:\workspace\project1 
+可以執行**gulp serve**，應該會啟動瀏覽器，你可以看到執行鷹架的畫面。
 
 
 
