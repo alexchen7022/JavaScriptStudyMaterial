@@ -2,8 +2,11 @@
 ##1.Git
 git是目前流行的版本控制程式，許多lib都存放於github這個網路服務網站上，
 因此需要先安裝這個git的程式讓npm可以抓的到他所需要的lib.
-**在安裝的過程中，要選擇Use Git from the windows command prompt讓windows的command line可以執行Git 不然其他軟體會抓不到。**  
+
 https://git-scm.com/download/win
+**在安裝的過程中，要選擇Use Git from the windows command prompt讓windows的command line可以執行Git 不然其他軟體會抓不到。**  
+![image](https://cloud.githubusercontent.com/assets/2408918/10709597/5d459a7c-7a67-11e5-9a9f-273d8ce08f51.png)
+
 ### 如果是在網管嚴格的環境，必須設定git proxy  
 E.g.  
 **git config --global http.proxy http://proxy.chu.edu.tw:3128**  
@@ -75,8 +78,9 @@ http://yeoman.io/
 最後執行 **yo gulp-webapp**  
 ## 驗證環境
 在專案資料夾的目錄下 E.g. D:\workspace\project1 
-可以執行**gulp serve**，應該會啟動瀏覽器，你可以看到執行鷹架的畫面。
+可以執行**gulp serve**，應該會啟動瀏覽器，你可以看到執行鷹架的畫面。  
 
+![image](https://cloud.githubusercontent.com/assets/2408918/10709595/20bb15a0-7a67-11e5-8e58-e2d0d566621b.png)
 
 
 
