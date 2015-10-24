@@ -62,7 +62,7 @@ gulp 為 自動化工具，透過gulp可以將常用的命令打包並且串流�
 **npm install -g gulp**  
 http://gulpjs.com/
 
-# 安裝鷹架軟體
+# 安裝鷹架軟體yeoman
 萬事起頭難，如果能有一個鷹架先搭起來，這樣子在開發上面就會先有一個統一的依循。 
 目前我們使用的是 *Yeoman (THE WEB'S SCAFFOLDING TOOL FOR MODERN WEBAPPS)*  
 http://yeoman.io/   
