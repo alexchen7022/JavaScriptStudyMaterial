@@ -35,9 +35,10 @@ E.g.
 npm config set proxy http://proxy.chu.edu.tw:3128  
 npm config set https-proxy http://proxy.chu.edu.tw:3128  
 
-## 2.設定npm module路徑
+## 2.設定npm module and cache路徑
 在命令列的狀況下打輸入下列指令，  
 **npm config set prefix "你想要的模組安裝路徑" -g**  
+**npm config set cache C:\Devel\nodejs\npm-cache -g**
 e.g. npm config set prefix "C:\npm" -g  
 變更有兩個好處，第一個避免安裝路徑過長，第二個可以讓不同的帳號使用相同的npm模組，
 如果windows使用習慣是一開始只用user的帳號登入，有需要時再用admin登入時，在run as administrator的狀況下，
